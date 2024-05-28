@@ -1,2 +1,2 @@
-name = "Your Name"
+name = "write Your Name"
 print("My name is", name)
